@@ -1,9 +1,5 @@
 Super Fast Discord Token Generator With HCaptcha Bypass And Email Verifcation + Realistic / Custom Name + Random (good) / Custom PFP!
 
-50 Stars = Token Generator Release
-
-75 Stars = Token Generator + HCaptcha Bypass Release
-
 100 Stars = Token Generator + HCaptcha Bypass + Phone Verifier Release
 
 
